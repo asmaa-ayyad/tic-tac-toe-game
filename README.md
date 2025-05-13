@@ -34,7 +34,7 @@ X | 2 | 3
 ---------
 4 | O | 6
 ---------
-7 | 8 | 9
+7 | 8 | O
 
 The game will tell you if someone wins or if it’s a draw
  and ask if you want to play again.
